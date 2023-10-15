@@ -20,9 +20,7 @@ python3 run.py
 
 If selected image takes to long to execute (more than a couple of minutes) please select and image of lower resolution
 
-```
-command to run if program contains helper info
-```
+
 
 ## License
 
@@ -30,7 +28,7 @@ This project is licensed under the MIT License License - see the LICENSE file fo
 
 ## Acknowledgments
 
-This project is inspired from the library babel
+This project is inspired by the library of babel concept
 * https://libraryofbabel.info/
 * https://github.com/librarianofbabel/libraryofbabel.info-algo
  
