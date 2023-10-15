@@ -1,14 +1,11 @@
 # Cinema of Babel
 
-Simple overview of use/purpose.
+ The Cinema of Babel is a program that translates an image chosen by the user into a unique block of text or "moviescript", which can later be converted back into the original image.
+
+The user may also choose to start with a custom block of text and convert it to a unique image.
+
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Dependencies
 
 
 
@@ -28,28 +25,15 @@ python3 run.py
 
 ## Help
 
-Any advise for common problems or issues.
+If selected image takes to long to execute (more than a couple of minutes) please select and image of lower resolution
+
 ```
 command to run if program contains helper info
 ```
 
-## Authors
-
-To report any bugs 
-
-ex. Alexander Bolovan
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License License - see the LICENSE file for details
 
 ## Acknowledgments
 
