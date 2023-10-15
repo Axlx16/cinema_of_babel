@@ -1,23 +1,16 @@
 # Cinema of Babel
 
- The Cinema of Babel is a program that translates an image chosen by the user into a unique block of text or "moviescript", which can later be converted back into the original image.
+The Cinema of Babel is a program that translates an image chosen by the user into a unique block of text which can then be converted back into the original image.
 
 The user may also choose to start with a custom block of text and convert it to a unique image.
 
+Any change made to the block of text produced by the original image will produce a completely new image.
 
-## Description
-
-
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* Use the website link
-* To execute the program on your own machine use the following command with the "cinema_of_babel" folder
+* To execute the program through a website the following [link](www.google.com). **[RECOMMENDED]**
+* To execute the program on your own machine edit the run.py follow as is outlined by the comments in the file and run the following command with the "cinema_of_babel" folder **[MAY ENCOUNTER DEPEDENCY ISSUES]**
 
 ```
 python3 run.py 
