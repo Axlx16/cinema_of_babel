@@ -9,7 +9,7 @@ Any change made to the block of text produced by the original image will produce
 
 ### Executing program
 
-* To execute the program through a website the following [link](http://axlx16.pythonanywhere.com/). **[RECOMMENDED]**
+* The program can be executed through the following website[link](http://axlx16.pythonanywhere.com/). **[RECOMMENDED]**
 * To execute the program on your own machine edit the run.py follow as is outlined by the comments in the file and run the following command with the "cinema_of_babel" folder. **[MAY ENCOUNTER DEPEDENCY ISSUES]**
 
 ```
@@ -19,7 +19,6 @@ python3 run.py
 ## Help
 
 If selected image takes to long to execute (more than a couple of minutes) please select and image of lower resolution.
-
 
 
 ## License
